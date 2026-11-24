@@ -1,0 +1,32 @@
+name: Atualizar Agenda Regulatoria
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 11 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: agenda-regulatoria
+  cancel-in-progress: false
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Extrair Power BI
+        run: python scripts/update_agenda.py
+      - name: Publicar somente se houver mudanca
+        run: |
+          if git diff --quiet -- agenda_regulatoria.json; then
+            echo "Sem alteracoes na Agenda."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add agenda_regulatoria.json
+          git commit -m "Atualiza Agenda Regulatoria"
+          git push
