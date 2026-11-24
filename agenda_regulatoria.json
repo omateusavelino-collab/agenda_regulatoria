@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "fonte": "Power BI público - Agenda Regulatória MCom",
+  "fonte_url": "https://www.gov.br/mcom/pt-br/assuntos/radio-e-tv-aberta/agenda_regulatoria?activeAccordion=9e672687-5c09-42d9-8884-83a088358dcc%2C43a737dc-655e-4496-8fa4-1929c1509729",
+  "powerbi_url": "https://app.powerbi.com/view?r=eyJrIjoiOWNhMWI2MzAtOGJmMy00MTUzLWE5MjQtMGFhOTE3ZTcyZDExIiwidCI6ImExMTIwMGVkLTNhYTctNDFhMy05M2UxLTcwYWU4ZmMxZWMxYSJ9",
+  "captura_base": "HAR de 24/11/2026",
+  "agenda": "2026-2027",
+  "total": 19,
+  "resumo": {
+    "em_andamento": 9,
+    "a_iniciar": 10
+  },
+  "temas": [
+    "Acessibilidade",
+    "Acordo de Cooperação Anatel",
+    "Alertas de Emergência",
+    "Canal Virtual",
+    "Consolidação de Decretos",
+    "Modernização e Desburocratização",
+    "Multiprogramação",
+    "Plano de Fiscalização",
+    "Políticas Públicas para Espectro",
+    "Precificação de Outorgas",
+    "Radiodifusão Comunitária",
+    "RTVSat",
+    "Serviço Especial para Fins Científicos e Experimentais e Uso Temporário de Radiofrequência",
+    "TV 3.0",
+    "Voz do Brasil"
+  ],
+  "iniciativas": [
+    {
+      "numero": 1,
+      "descricao": "Regulamentação da evolução do Sistema Brasileiro de Televisão Digital Terrestre, por meio da incorporação de inovações tecnológicas, resultante dos trabalhos realizados pelo Grupo de Trabalho da TV 3.0.",
+      "instrumento": "Portaria",
+      "fase": "Em andamento"
+    },
+    {
+      "numero": 2,
+      "descricao": "Modernização da legislação aplicável ao setor radiodifusão.",
+      "instrumento": "Projeto de Lei",
+      "fase": "Em andamento"
+    },
+    {
+      "numero": 3,
+      "descricao": "Modernização da regulamentação e promoção da desburocratização do setor de radiodifusão.",
+      "instrumento": "Decreto",
+      "fase": "A iniciar"
+    },
+    {
+      "numero": 4,
+      "descricao": "Modernização da regulamentação e promoção da desburocratização do setor de radiodifusão.",
+      "instrumento": "Portaria",
+      "fase": "A iniciar"
+    },
+    {
+      "numero": 5,
+      "descricao": "Regulamentação da transmissão de sinais de televisão via satélite, por meio da criação do serviço RTVSat.",
+      "instrumento": "Decreto",
+      "fase": "Em andamento"
+    },
+    {
+      "numero": 6,
+      "descricao": "Definição, em nível operacional, dos fluxos e dos procedimentos necessários à efetiva regulamentação do serviço de retransmissão de televisão por satélite - RTVSat.",
+      "instrumento": "Portaria",
+      "fase": "A iniciar"
+    },
+    {
+      "numero": 7,
+      "descricao": "Simplificação e flexibilização de critérios para a utilização dos canais virtuais por emissoras de televisão digital.",
+      "instrumento": "Portaria",
+      "fase": "Em andamento"
+    },
+    {
+      "numero": 8,
+      "descricao": "Elaboração de Decreto Regulamentar consolidado, incluindo todos os decretos que regem os serviços de radiodifusão e ancilares.",
+      "instrumento": "Decreto",
+      "fase": "A iniciar"
+    },
+    {
+      "numero": 9,
+      "descricao": "Revisão de regras para a autorização do Serviço Especial para  Fins Científicos e Experimentais e para o Uso Temporário de Radiofrequência.",
+      "instrumento": "Portaria",
+      "fase": "Em andamento"
+    },
+    {
+      "numero": 10,
+      "descricao": "Atualização do Acordo de Cooperação Técnica que delega competências do Ministério das Comunicações para Agência Nacional de Telecomunicações - Anatel, para a prática dos atos necessários à análise de processos técnicos de engenharia nos procedimentos de pós-outorga dos serviços de radiodifusão, seus ancilares e auxiliares.",
+      "instrumento": "Acordo",
+      "fase": "A iniciar"
+    },
+    {
+      "numero": 11,
+      "descricao": "Atualização de regras sobre a utilização de recursos de acessibilidade para as pessoas com deficiência, nos serviços de radiodifusão e ancilares.",
+      "instrumento": "Portaria",
+      "fase": "A iniciar"
+    },
+    {
+      "numero": 12,
+      "descricao": "Elaboração e atualização do plano de fiscalização do setor de radiodifusão.",
+      "instrumento": "Portaria",
+      "fase": "Em andamento"
+    },
+    {
+      "numero": 13,
+      "descricao": "Estabelecimento de metodologia de precificação de outorgas dos serviços de radiodifusão sonora e de sons e imagens.",
+      "instrumento": "Portaria",
+      "fase": "Em andamento"
+    },
+    {
+      "numero": 14,
+      "descricao": "Estabelecimento de critérios para multiprogramação para o serviço de radiodifusão de sons e imagens e retransmissão de televisão, em tecnologia digital.",
+      "instrumento": "Portaria",
+      "fase": "A iniciar"
+    },
+    {
+      "numero": 15,
+      "descricao": "Revisão de regras para o serviço de Radiodifusão Comunitária.",
+      "instrumento": "Decreto",
+      "fase": "Em andamento"
+    },
+    {
+      "numero": 16,
+      "descricao": "Revisão de regras para o serviço de Radiodifusão Comunitária.",
+      "instrumento": "Portaria",
+      "fase": "A iniciar"
+    },
+    {
+      "numero": 17,
+      "descricao": "Estabelecimento de políticas públicas para utilização do espectro para serviços de radiodifusão e ancilares.",
+      "instrumento": "Portaria ou Decreto",
+      "fase": "A iniciar"
+    },
+    {
+      "numero": 18,
+      "descricao": "Estabelecimento de regras para a transmissão de alertas de emergências para emissoras dos serviços de radiodifusão e ancilares.",
+      "instrumento": "Portaria",
+      "fase": "Em andamento"
+    },
+    {
+      "numero": 19,
+      "descricao": "Atualização de regras para a dispensa e a flexibilização da transmissão do programa Voz do Brasil no serviço de radiodifusão sonora.",
+      "instrumento": "Portaria",
+      "fase": "A iniciar"
+    }
+  ]
+}
